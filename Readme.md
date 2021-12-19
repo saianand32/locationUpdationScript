@@ -1,0 +1,1 @@
+locationUpdation script was developed for the purpose of manipulating the known location values from GPS into a usable form in order to display various objects in various locations.
